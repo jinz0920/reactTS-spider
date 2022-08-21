@@ -1,0 +1,15 @@
+/* .home-page {
+    padding: 20px;
+    margin: 100px auto;
+    border: 1px solid rgb(225, 225, 225);
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+} */
+
+.buttons{
+    width: 400px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-around;
+}
